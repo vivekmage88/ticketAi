@@ -1,0 +1,4 @@
+Duplicate Charges
+If you see two charges for the same order, first check whether one of them is marked as pending or authorised. Banks sometimes display a temporary payment authorisation alongside the completed payment. Temporary authorisations normally disappear automatically within 3–7 working days.
+If both payments have been fully charged, contact customer support with your order number, payment date, amount charged, and the last four digits of the payment card. Do not send your full card number or security code.
+Once we confirm that a duplicate payment has been taken, we will issue a refund for the duplicate charge within 2 working days. Your bank may then take another 5–7 working days to return the money to your account.

@@ -1,0 +1,3 @@
+Changing Your Account Email
+To change the email address associated with your account, sign in and go to Account → Personal Details → Email Address. Enter your new email address and confirm the change using the verification link sent to the new address.
+The verification email should arrive within 10 minutes. If you no longer have access to your existing email address or cannot change it through your account, contact customer support. You may be asked to confirm details such as your name, recent order number, billing information, or other account information before the email address can be changed.

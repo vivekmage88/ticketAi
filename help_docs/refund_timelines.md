@@ -1,0 +1,3 @@
+Refund Timelines
+Once we receive your returned item, we inspect it and process the refund within 2 working days. After the refund is issued, it normally takes 5–7 working days for the money to appear in your original payment method.
+Bank and credit card processing times can vary. If you have not received your refund 10 working days after receiving our refund confirmation, contact our customer support team with your order number and payment details so we can investigate.

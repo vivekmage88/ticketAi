@@ -1,6 +1,7 @@
 from celery_app import celery_app
 from database import SessionLocal
 from models import Ticket
+from classify import classify
 
 @celery_app.task(bind=True, autoretry_for=(Exception,), retry_backoff= 2, retry_backoff_max=600, max_retries=5, retry_jitter=True)
 def process_ticket(self, ticket_id: int):
@@ -12,6 +13,9 @@ def process_ticket(self, ticket_id: int):
             return
 
         # Simulate processing the ticket (e.g., categorization, urgency assessment)
+        result = classify(ticket.subject, ticket.body)
+        ticket.category = result.category
+        ticket.urgency = result.urgency
         ticket.status = "processed"
         db.commit()
         print(f"Ticket {ticket_id} processed successfully.")

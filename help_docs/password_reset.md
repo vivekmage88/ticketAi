@@ -1,0 +1,3 @@
+Password Reset Problems
+If you cannot sign in to your account, select "Forgot Password" on the login page and enter the email address associated with your account. You should receive a password-reset email within 5–10 minutes.
+If you do not receive the email, check your spam or junk folder and confirm that you entered the correct email address. Wait at least 10 minutes before requesting another reset link. Password-reset links normally expire after 24 hours. If you are still unable to reset your password, contact customer support so we can verify your account and assist you.

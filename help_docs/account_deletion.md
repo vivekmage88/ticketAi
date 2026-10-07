@@ -1,0 +1,4 @@
+Account Deletion
+You can request permanent deletion of your account by contacting customer support from the email address registered to your account. Include your full name and a clear request to delete your account.
+We will normally confirm your request within 2 working days and complete the deletion within 30 days. Certain information, such as invoices, transaction records, or information required for tax, fraud-prevention, or legal purposes, may need to be retained for the period required by applicable law.
+Once your account has been permanently deleted, your account history and saved information cannot normally be restored.

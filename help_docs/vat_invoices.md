@@ -1,0 +1,4 @@
+VAT Receipts and Invoices
+Your invoice is normally available once your order has been confirmed or dispatched. Sign in to your account and go to Orders → View Order → Invoice to download a copy.
+If an invoice is not available online, contact customer support with your order number and billing details. We will normally provide a copy within 1 working day. If you require a VAT invoice, make sure your company name, billing address, and VAT registration number are provided correctly.
+Requests to change invoice information after an order has been completed may be restricted depending on applicable tax regulations.

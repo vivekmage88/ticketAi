@@ -1,0 +1,3 @@
+Delivery Delays and Tracking
+Once your order has been dispatched, you will receive a shipping confirmation containing your tracking number and tracking link. Tracking information may take up to 24 hours after dispatch to update.
+If your order has not arrived within 3 working days after the estimated delivery date, check the tracking information first. If there has been no tracking update for more than 48 hours, contact our support team with your order number. We will contact the courier and normally provide an update within 1–2 working days.

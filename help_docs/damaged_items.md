@@ -1,0 +1,3 @@
+Damaged or Faulty Items
+If your order arrives damaged, defective, or faulty, contact us within 7 days of delivery. Please provide your order number, a description of the problem, and clear photographs or a short video showing the damage or fault.
+Once the issue is verified, we will arrange either a replacement or full refund. Where a return is required, we will provide return instructions and cover the return shipping cost. Replacement items are normally dispatched within 2–3 working days after the claim is approved.
