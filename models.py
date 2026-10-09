@@ -17,6 +17,8 @@ class Ticket(Base):
     status: Mapped[str] = mapped_column(String(20), default = "new", index=True)
     category: Mapped[str | None] = mapped_column(String(50), nullable=True, index=True)
     urgency: Mapped[str | None] = mapped_column(String(20), nullable=True)
+    search_query: Mapped[str | None] = mapped_column(Text, nullable=True)
+    classification_reason: Mapped[str | None] = mapped_column(Text, nullable=True)
     team: Mapped[str | None] = mapped_column(String(50), nullable=True)
     
     created_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())

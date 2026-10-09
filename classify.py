@@ -44,15 +44,16 @@ problem itself. Do not include order numbers, dates, names or courier names."""
         model="gpt-4o-mini",
         messages=[{"role": "system", "content": INSTRUCTIONS},
                   {"role": "user", "content": f"Subject: {subject}\nBody: {body}"}],
-        response_format= Classification
+        response_format= Classification,
+        temperature=0,
     )
     
     return response.choices[0].message.parsed
 
 
-if __name__ == "__main__":
-    result = classify(
-        "Order 27597 hasn't arrived",
-        "Order 27597 hasn't arrived and tracking hasn't updated in days.",
-    )
-    print(result)
+# if __name__ == "__main__":
+#     result = classify(
+#         "Order 27597 hasn't arrived",
+#         "Order 27597 hasn't arrived and tracking hasn't updated in days.",
+#     )
+#     print(result)

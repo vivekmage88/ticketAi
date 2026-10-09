@@ -17,6 +17,8 @@ def process_ticket(self, ticket_id: int):
         ticket.category = result.category
         ticket.urgency = result.urgency
         ticket.status = "processed"
+        ticket.search_query = result.search_query
+        ticket.classification_reason = result.reason
         db.commit()
         print(f"Ticket {ticket_id} processed successfully.")
     except Exception as e:

@@ -3,12 +3,12 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 load_dotenv()
-chat_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-def embed_text(text: str) -> list[float]:
-    response = chat_client.embeddings.create(
+def embed_text(texts: list[str]) -> list[list[float]]:
+    response = openai_client.embeddings.create(
         model="text-embedding-3-small",
-        input=text
+        input=texts
     )
     vectors = []
     for item in response.data:
